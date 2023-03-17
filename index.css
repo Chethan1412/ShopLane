@@ -66,6 +66,7 @@ nav{
     width: 400px;
     height: 25px;
     position: relative;
+    left: 70px;
     background-color: #F5F2F2;
 }
 #search-wrapper i{
@@ -88,6 +89,13 @@ nav{
     font-size: 22px;
     margin-left: 15px;
     cursor: pointer;
+}
+#anchors, #cart-account-wrapper img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    /* padding-left:5px; */
+    margin-left:15px;
 }
 #cart-count-container{
     position: relative;
