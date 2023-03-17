@@ -49,7 +49,9 @@ nav{
 }
 #anchors{
     padding-left: 30px;
+     padding-right: 20px;
 }
+ 
 #anchors, #cart-account-wrapper{
     display: flex;
     align-items: center;
